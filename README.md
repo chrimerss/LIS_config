@@ -1,2 +1,2 @@
-# CA_LIS
-NASA Land Information System simulation of California winter storm flooding
+# LIS_config
+NASA Land Information System simulation configuration files
